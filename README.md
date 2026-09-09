@@ -9,7 +9,7 @@ for businesses and startups that care about quality.
 
 <br>
 
-[![Build With Us](https://img.shields.io/badge/BUILD_WITH_US-→-111111?style=for-the-badge)](YOUR_WEBSITE_URL)
+[![Website](https://img.shields.io/badge/BUILD_WITH_US-Visit_Studio-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://theobsidianstudio.netlify.app/)
 
 <br>
 
@@ -43,7 +43,7 @@ We care about the details users notice — and the engineering they don't.
 
 ### 01 / Websites
 
-Modern, responsive and high-performance websites designed around your brand, audience, and business goals.
+Modern, responsive, and high-performance websites designed around your brand, audience, and business goals.
 
 </td>
 <td width="33%" valign="top">
@@ -74,7 +74,7 @@ Clean, intuitive interfaces built around usability, hierarchy, interaction, and 
 
 ### 05 / Full-Stack Systems
 
-Frontend, backend, APIs, databases, authentication and integrations working as one cohesive system.
+Frontend, backend, APIs, databases, authentication, and integrations working as one cohesive system.
 
 </td>
 <td width="33%" valign="top">
@@ -95,12 +95,12 @@ AI-powered features and intelligent workflows integrated where they create meani
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 </div>
@@ -113,15 +113,13 @@ A beautiful interface isn't enough.
 
 Neither is technically impressive software that's difficult to use.
 
-The best digital products happen when **design and engineering are treated as one discipline**.
+We believe the best digital products happen when **design and engineering are treated as one discipline**.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### DESIGN
-
-We think about:
 
 - Visual hierarchy
 - User experience
@@ -134,8 +132,6 @@ We think about:
 <td width="50%" valign="top">
 
 ### ENGINEERING
-
-We care about:
 
 - Architecture
 - Performance
@@ -168,52 +164,58 @@ We don't add technology, features, animations, or complexity simply because we c
 
 Everything should contribute to the **experience, performance, usability, or business objective** of the product.
 
-| | Standard |
+| Principle | What it means |
 | --- | --- |
 | **Useful** | Solve the right problem |
 | **Intuitive** | Make the experience easy to understand |
 | **Fast** | Respect the user's time |
 | **Responsive** | Work properly across devices |
 | **Scalable** | Be ready for growth |
-| **Maintainable** | Keep the codebase understandable |
+| **Maintainable** | Keep the system understandable and adaptable |
 | **Distinctive** | Feel intentional rather than assembled |
-| **Production-ready** | Work beyond the development environment |
+| **Production-ready** | Work reliably beyond the development environment |
 
 ---
 
 ## How We Work
 
-Every project is different.
+We don't believe in forcing every project through the same formula.
 
-The principles behind our work aren't.
+Instead, we work around a few principles:
 
-**Understand deeply.**  
-Before building anything, understand the product, audience, goals, and constraints.
+**Understand deeply**  
+Know the product, audience, goals, and constraints before writing code.
 
-**Reduce complexity.**  
+**Reduce complexity**  
 Good product decisions often come from deciding what *not* to build.
 
-**Design intentionally.**  
+**Design intentionally**  
 Every screen, interaction, and visual decision should have a reason.
 
-**Engineer for reality.**  
-Build for actual users, actual devices, actual data, and actual growth.
+**Engineer for reality**  
+Build for actual users, devices, data, traffic, and growth.
 
-**Refine relentlessly.**  
+**Refine relentlessly**  
 The difference between functional and excellent usually lives in the details.
 
-**Ship.**  
+**Ship**  
 A product creates value when people can actually use it.
 
 ---
 
 ## AI, With Purpose
 
-We believe AI should make products **more capable**, not simply more fashionable.
+AI shouldn't be added to a product just because it can be.
 
-From intelligent interfaces to AI-powered workflows and integrations, we use AI when it can meaningfully improve:
+We integrate intelligent features where they can create measurable value for the product and its users.
 
-`AUTOMATION` · `PRODUCTIVITY` · `DISCOVERY` · `PERSONALIZATION` · `USER EXPERIENCE`
+<div align="center">
+
+`AUTOMATION` &nbsp; `PRODUCTIVITY` &nbsp; `DISCOVERY` &nbsp; `PERSONALIZATION` &nbsp; `EXPERIENCE`
+
+</div>
+
+<br>
 
 > **AI is a capability — not the product strategy.**
 
@@ -225,8 +227,7 @@ Our repositories represent the engineering behind our products, experiments, int
 
 Some client projects and production systems remain private.
 
-**Want to see what we build?**  
-[Explore our work →](YOUR_WEBSITE_URL)
+### [Explore our work →](https://theobsidianstudio.netlify.app/)
 
 ---
 
@@ -238,10 +239,10 @@ Some client projects and production systems remain private.
 
 ## Connect
 
-[![Website](https://img.shields.io/badge/Website-The_Obsidian_Studio-111111?style=flat-square&logo=googlechrome&logoColor=white)](YOUR_WEBSITE_URL)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-The_Obsidian_Studio-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Instagram](https://img.shields.io/badge/Instagram-The_Obsidian_Studio-E4405F?style=flat-square&logo=instagram&logoColor=white)](YOUR_INSTAGRAM_URL)
-[![X](https://img.shields.io/badge/X-@Obsidian__std-000000?style=flat-square&logo=x&logoColor=white)](YOUR_X_URL)
+[![Website](https://img.shields.io/badge/Website-The_Obsidian_Studio-111111?style=flat-square&logo=googlechrome&logoColor=white)](https://theobsidianstudio.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-The_Obsidian_Studio-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/company/the-obsidian-studio)
+[![Instagram](https://img.shields.io/badge/Instagram-@the.obsidianstudio-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/the.obsidianstudio)
+[![X](https://img.shields.io/badge/X-@obsidian__std-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/obsidian_std)
 
 ---
 
@@ -250,6 +251,8 @@ Some client projects and production systems remain private.
 ### Make it useful. Make it beautiful. Make it last.
 
 `DESIGN × ENGINEERING × DIGITAL PRODUCTS`
+
+<br>
 
 **THE OBSIDIAN STUDIO**
 
